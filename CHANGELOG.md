@@ -1,3 +1,9 @@
+###### 2026.08.04 [v32.1.5]
+
+```
+fix(fir-core): make SwiftUI linkage consistent with other extensions (https://github.com/airnativeextensions/ANE-PushNotifications/issues/638)
+```
+
 ###### 2026.02.26 [v32.1.4]
 
 ```
