@@ -7,7 +7,7 @@
 | com.google.firebase.core | 35.1.2 | 34.1.0 | 12.9.0 |
 | com.google.firebase.messaging | 26.1.0 | 25.0.0 | 12.9.0 |
 | com.google.firebase.ondeviceconversion | 35.1.0 | 34.1.0 | 12.9.0 |
-| com.distriqt.playservices.Ads | 24.9.0 | 24.9.0 |  |
+| com.distriqt.playservices.Ads | 25.4.0 | 25.4.0 |  |
 | com.distriqt.playservices.AdsIdentifier | 19.3.0 | 18.3.0 |  |
 | com.distriqt.playservices.Analytics | 19.0.2 | 18.1.1 |  |
 | com.distriqt.playservices.AppInvite | 19.0.2 | 18.0.0 |  |
