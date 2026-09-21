@@ -1,3 +1,12 @@
+###### 2026.09.21 [v32.3.0]
+
+```
+feat(fir-core, fir-messaging, fir-adidsupport, fir-ondeviceconversion, android): update firebase android sdk to bom v34.19.0
+feat(fir-core, fir-messaging, fir-adidsupport, fir-ondeviceconversion, ios): update firebase ios sdk to v12.19.1
+feat(ios): support for ios simulator swift compat library (https://github.com/airsdk/Adobe-Runtime-Support/issues/4255)
+feat(playservices-auth): update auth v22.0.0
+```
+
 ###### 2026.08.12 [v32.2.0]
 
 ```
