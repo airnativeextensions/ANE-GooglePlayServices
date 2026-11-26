@@ -1,3 +1,13 @@
+###### 2026.11.26 [v32.5.0]
+
+```
+feat(fir-core, fir-messaging, fir-adidsupport, fir-ondeviceconversion, android): update firebase android sdk to bom v35.2.0
+feat(fir-core, fir-messaging, fir-adidsupport, fir-ondeviceconversion, ios): update firebase ios sdk to v13.2.0
+feat(android): require minimum sdk 24 for firebase core and messaging
+feat(ios): require minimum ios 15
+feat(playservices-cloudmessaging): update cloud messaging sdk to v17.4.0
+```
+
 ###### 2026.09.21 [v32.3.0]
 
 ```
